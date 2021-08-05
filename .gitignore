@@ -1,0 +1,6 @@
+/frondend/node_modules
+/frondend/build
+/frondend/.env
+/backend/node_modules
+/backend/public/media
+/backend/.env
